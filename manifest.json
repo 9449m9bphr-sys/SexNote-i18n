@@ -1,0 +1,15 @@
+{
+  "game_version": "0.25.0a",
+  "tl_release": "tl-0.25.0-r1",
+  "min_game": "0.25.0a",
+  "languages": {
+    "chinese": {
+      "name": "简体中文",
+      "file": "tl_chinese.zip",
+      "sha256": "b4d65c8182d21f075fc13ca72eef7b60a5dc1e279baa73d0481ef2c8a3b915ae",
+      "bytes": 1143391,
+      "strings": 20472,
+      "rtl": false
+    }
+  }
+}
