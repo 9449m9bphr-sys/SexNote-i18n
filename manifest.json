@@ -1,6 +1,6 @@
 {
   "game_version": "0.25.0a",
-  "tl_release": "tl-0.25.0-r5",
+  "tl_release": "tl-0.25.0-r6",
   "min_game": "0.25.0a",
   "languages": {
     "chinese": {
@@ -26,6 +26,14 @@
       "bytes": 1058710,
       "strings": 20289,
       "rtl": true
+    },
+    "german": {
+      "name": "Deutsch",
+      "file": "tl_german.zip",
+      "sha256": "c045987a5f6055ca48e69927e13c06e833b48bfaa4b090641dacbdce556770dd",
+      "bytes": 1006899,
+      "strings": 20107,
+      "rtl": false
     }
   }
 }
