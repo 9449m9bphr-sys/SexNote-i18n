@@ -1,6 +1,6 @@
 {
   "game_version": "0.25.0a",
-  "tl_release": "tl-0.25.0-r6",
+  "tl_release": "tl-0.25.0-r7",
   "min_game": "0.25.0a",
   "languages": {
     "chinese": {
@@ -33,6 +33,14 @@
       "sha256": "c045987a5f6055ca48e69927e13c06e833b48bfaa4b090641dacbdce556770dd",
       "bytes": 1006899,
       "strings": 20107,
+      "rtl": false
+    },
+    "portuguese": {
+      "name": "Português (PT)",
+      "file": "tl_portuguese.zip",
+      "sha256": "2768232ac6b97f767590de17dd74ecb13daab25e7bcb5a28153acb415fa6a2b1",
+      "bytes": 858298,
+      "strings": 17746,
       "rtl": false
     }
   }
